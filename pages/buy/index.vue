@@ -1,10 +1,10 @@
 <template>
-<Test></Test>
+  <h4>Buy</h4>
 </template>
 
 <script>
 export default {
-  name: "temp",
+  name: "index",
   layout:'user'
 }
 </script>

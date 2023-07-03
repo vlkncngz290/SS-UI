@@ -1,14 +1,14 @@
 <template>
-<Test></Test>
+  <h4>Predictions</h4>
 </template>
 
 <script>
 export default {
-  name: "temp",
+  name: "index",
   layout:'user'
 }
 </script>
 
 <style scoped>
 
-</style>
+</style>+-
